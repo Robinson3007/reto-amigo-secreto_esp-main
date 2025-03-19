@@ -23,19 +23,14 @@ Copy
 │   ├── 📄 background.jpg  # Imagen de fondo
 │   └── 📄 favicon.ico     # Ícono del proyecto
 
-🛠️ Instalación y Uso
-Clona este repositorio en tu máquina local:
+## 🛠️ Instalación y Uso
 
-bash
-Copy
-git clone https://github.com/tu-usuario/sorteo-amigos-plus.git
-Abre el archivo index.html en tu navegador.
+1. Clona este repositorio en tu máquina local:
+   bash
+   git clone https://github.com/Robinson3007/reto-amigo-secreto_esp-main
 
-Ingresa los nombres de los amigos y, si lo deseas, asigna una tarea o regalo opcional.
-
-Realiza el sorteo y descubre quién ha sido seleccionado junto con su tarea/regalo.
-
-Elimina amigos de la lista si es necesario.
+2. Abre el archivo index.html en tu navegador.
+3. Ingresa los nombres de los amigos y realiza el sorteo.
 
 🖥️ Tecnologías Usadas
 HTML5: Estructura semántica y accesible.
