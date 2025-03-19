@@ -1,8 +1,8 @@
 # reto-amigo-secreto_esp-main
-🎉 Proyecto: Sorteo de Amigos Plus
+··🎉 Proyecto: Sorteo de Amigos Plus
 Este proyecto permite crear grupos de amigos, asignar tareas o regalos de manera aleatoria, y realizar un sorteo para seleccionar un amigo al azar. Fue desarrollado con HTML, CSS y JavaScript, y ahora incluye una funcionalidad adicional para asignar tareas o regalos específicos a cada amigo.
 
-🚀 Funcionalidades Mejoradas
+··🚀 Funcionalidades Mejoradas
 Agregar amigos a una lista con su nombre y una tarea/regalo opcional.
 
 Mostrar la lista de amigos con sus respectivas tareas/regalos.
@@ -13,7 +13,7 @@ Eliminar amigos de la lista en caso de errores.
 
 Validación de campos para evitar entradas vacías.
 
-📂 Estructura del Proyecto
+··📂 Estructura del Proyecto
 Copy
 📁 sorteo-amigos-plus/
 ├── 📄 index.html          # Estructura principal del proyecto
@@ -32,7 +32,7 @@ Copy
 2. Abre el archivo index.html en tu navegador.
 3. Ingresa los nombres de los amigos y realiza el sorteo.
 
-🖥️ Tecnologías Usadas
+··🖥️ Tecnologías Usadas
 HTML5: Estructura semántica y accesible.
 
 CSS3: Diseño responsive y moderno con animaciones.
